@@ -1,0 +1,3 @@
+Why do we get true when the variable is queried in prolog?
+
+How do you assign names to complex data structures?
